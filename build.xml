@@ -67,6 +67,7 @@
 	</target>
 
 	<!-- Lance le main sans les contrats-->
+	<!-- Pour lancer avec une musique : ant run -Dmusic="nom de la musique" -->
 	<target name="run" depends="build">
 		<echo>========== Run Lode Runner without contracts ==========</echo>
 		<java classname="main.Main" failonerror="true" fork="yes">
