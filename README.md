@@ -4,7 +4,7 @@ Projet de spécification & implementation d'un jeu : Lode Runner, pour l'UE Comp
 
 # Capture d'écran du jeu
 
-![alt text](https://github.com/apidery/Lode_Runner/blob/master/src/resources/img/fenetre-jeu.png)
+![alt text](https://github.com/KarimGhallab/Lode_Runner/blob/master/src/resources/img/fenetre-jeu.png)
 
 ## Auteurs
 
